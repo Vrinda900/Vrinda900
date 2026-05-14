@@ -20,7 +20,7 @@
 - 💬 Ask me about **Flask, Python, TensorFlow, REST APIs**
 - 🏆 **IBM SkillsBuild** certified in Artificial Intelligence
 - 🚀 Participated in **Smart India Hackathon 2025** (Internal Round) — Team Prayas
-- 📫 Reach me at **vrindasinghal@gmail100.com**
+- 📫 Reach me at **vrindasinghal100@gmail.com**
 
 ---
 
