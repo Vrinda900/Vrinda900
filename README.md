@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 3rd year **B.Tech Computer Science** student @ Banasthali Vidhyapith *(CGPA: 9.02 / 10)*
+- 🎓 4th year **B.Tech Computer Science** student @ Banasthali Vidhyapith *(CGPA: 8.9 / 10)*
 - 🔭 Currently building **CRISP** — an AI-powered civic issue reporting platform
 - 🌱 Currently learning **Docker** and **React.js**
 - 💬 Ask me about **Flask, Python, TensorFlow, REST APIs**
